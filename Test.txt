@@ -1,1 +1,1 @@
-This is from my local insert folder to Git upload. 
+This is from my local insert .txt to Git upload. 
